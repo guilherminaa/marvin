@@ -4,4 +4,3 @@ function finais (palavra) {
    
    
    
-    console.log (finais ("Guilhermina"))
